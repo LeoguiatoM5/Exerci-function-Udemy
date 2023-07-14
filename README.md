@@ -1,1 +1,1 @@
-# Testes e exercícios de Funtion JavaScript
+# Testes e exercícios de Function JavaScript
